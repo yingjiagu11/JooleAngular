@@ -1,0 +1,13 @@
+.username{
+    width: 200px;
+}
+
+.password{
+    width: 200px;
+}
+
+.user{
+    left: 50%;
+    top: 50%;
+    position: absolute;
+}
